@@ -122,22 +122,22 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
 * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
-* [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.
+* ~~[sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) - Fast, pure-Python implementation of SortedList, SortedDict, and SortedSet types.~~
 
 ## Anti-spam
 
 *Libraries for fighting spam.*
 
-* [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - A simple and highly customizable Django app to add captcha images to any Django form.
-* [django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker) - Simple spam blocker for Django.
+* ~~[django-simple-captcha](https://github.com/mbi/django-simple-captcha) - A simple and highly customizable Django app to add captcha images to any Django form.~~
+* ~~[django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker) - Simple spam blocker for Django.~~
 
 ## Asset Management
 
 *Tools for managing, compressing and minifying website assets.*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
-* [django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
-* [django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.
+* ~~[django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.~~
+* ~~[django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.~~
+* ~~[django-storages](https://github.com/jschneier/django-storages) - A collection of custom storage back ends for Django.~~
 * [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 * [fileconveyor](http://wimleers.com/fileconveyor) - A daemon to detect and sync files to CDNs, S3 and FTP.
 * [flask-assets](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
